@@ -16,5 +16,7 @@ baseurl:          /
 author:
   name:           'Adam Jordens'
   url:            https://twitter.com/ajordens
+  linkedin:       https://www.linkedin.com/in/adamjordens
+  github:         https://github.com/ajordens
 
 paginate:         3
