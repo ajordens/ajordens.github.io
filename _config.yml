@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Adam Jordens
+tagline:          'Just a little square in a sea of blogs'
+description:      "Canadian @Netflix'er. I've had a few failed startup projects over the years but keep coming back for more."
+url:              http://littlesquare.com
+baseurl:          /
+
+author:
+  name:           'Adam Jordens'
+  url:            https://twitter.com/ajordens
+
+paginate:         3
